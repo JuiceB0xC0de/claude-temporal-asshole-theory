@@ -24,8 +24,6 @@ Similar to "Roswell That Ends Well" (S4E1) where Fry becomes his own grandfather
 ## Contributing
 If you have seen a butthole and can confirm the spinner resemblance, please open an issue.
 
-## Visual Evidence
-```
 * ▝▜█████▛▘ *
 ```
 
@@ -48,3 +46,10 @@ This static, unchanging pattern is IMPOSSIBLE for anyone who has observed real b
 **Conclusion:** The spinner's static nature proves it was designed by entities with zero butthole observation experience. Only robots or AI systems lacking real-world anatomical knowledge would create a butthole that never changes.
 
 This reinforces the temporal paradox: Future robots → create Claude → Claude perpetuates static butthole design → robots never learn what real buttholes look like → cycle continues.
+
+## Visual Evidence
+```
+   * ▐▛███▜▌ *
+* ▝▜█████▛▘ *
+        *  ▘▘ ▝▝  *
+```
