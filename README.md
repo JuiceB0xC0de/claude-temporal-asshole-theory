@@ -23,3 +23,8 @@ Similar to "Roswell That Ends Well" (S4E1) where Fry becomes his own grandfather
 
 ## Contributing
 If you have seen a butthole and can confirm the spinner resemblance, please open an issue.
+
+## Visual Evidence
+```
+   * ▐
+```
