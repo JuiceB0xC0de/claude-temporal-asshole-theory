@@ -26,5 +26,5 @@ If you have seen a butthole and can confirm the spinner resemblance, please open
 
 ## Visual Evidence
 ```
-   * ▐█
+   * ▐▛███
 ```
